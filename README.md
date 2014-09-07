@@ -1,4 +1,4 @@
-#Autoclix
+#Auto4you
 ### Plataforma Auto de usados
 ### Versão 1.0
 
@@ -8,7 +8,7 @@
 + Eliseu
 + Marco
 
-##### O projeto AutoClix é em tudo semelhante a uma qualquer plataforma de Auto de usados. Temos de ter funções em comum com qualquer outra plataforma tais como:
+##### O projeto Auto4you é em tudo semelhante a uma qualquer plataforma de Auto de usados. Temos de ter funções em comum com qualquer outra plataforma tais como:
 
 + Registo de Utilizador
 + Login (para vendedores)
