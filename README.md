@@ -12,7 +12,8 @@
 
 #### 07-09-2014
 #####
-+ Vou enviar um documento a todos vós para poderem visualizar o que se quer com este grande projecto
++ Vou enviar um documento a todos vós para poderem visualizar o que se quer com este grande projecto;
++ Precisamos de um websire responsivo, para quem não sabe: http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/
 
 
 ##### O projeto Auto4you é em tudo semelhante a uma qualquer plataforma de Auto de usados. Temos de ter funções em comum com qualquer outra plataforma tais como:
