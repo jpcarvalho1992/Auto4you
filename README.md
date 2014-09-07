@@ -1,5 +1,5 @@
 #Auto4you
-### Plataforma Auto de usados
+### Plataforma de Auto usados
 ### Versão 1.0
 
 #### Equipa de desenvolvimento:
