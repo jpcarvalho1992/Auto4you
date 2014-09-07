@@ -8,10 +8,9 @@
 + Eliseu
 + Marco
 
-Histórico:
+#### Histórico:
 
-####
-07-09-2014 - 13:34
+#### 07-09-2014 - 13:34
 #####
 + Vou enviar um documento a todos vós para poderem visualizar o que se quer com este grande projecto
 
